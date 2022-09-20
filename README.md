@@ -17,6 +17,9 @@ Please refer to "dev_data_preprocess.sh" for details.
 ## Dev Set Scoring
 Please refer to "dev_scoring_sclite.sh" for details.
 
+## Test Set Pre-processing
+Please refer to "test_data_preprocess.sh" for details. When submitting your hyp file for final scoring, please make sure that the utterence ID format is same as the one in "test/ref_example.gb.txt" generated in "test_data_preprocess.sh".
+
 ## Baseline Model Performance
 MER: 29.2%
 
