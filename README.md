@@ -22,6 +22,7 @@ Please refer to "test_data_preprocess.sh" for details. When submitting your fina
 
 ## Baseline Model Performance
 dev MER: 29.2%
+
 test MER: 26.5%
 
 Other scoring details:
