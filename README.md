@@ -10,6 +10,11 @@ We combine the MagicData-RAMC Train and TAL_CSASR Train as the training dataset 
 ## Output Targets
 The ASR model predicts subword units based on byte pair encoding (BPE) for English and Chinese characters for Mandarin as output targets. There are 5,276 output targets in total, of which 1,007 are English subword units (including special symbols) and 4,269 are Chinese characters. 
 
+## Data Download
+
+Dev: https://magichub.com/datasets/chinese-english-code-mixing-conversational-speech-corpus/
+
+Test: https://magichub.com/datasets/dev-set-of-chinese-english-code-mixing-conversational-speech-corpus/
 
 ## Dev Set Data Pre-processing
 Please refer to "dev_data_preprocess.sh" for details.
