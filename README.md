@@ -12,9 +12,9 @@ The ASR model predicts subword units based on byte pair encoding (BPE) for Engli
 
 ## Data Download
 
-Dev: https://magichub.com/datasets/chinese-english-code-mixing-conversational-speech-corpus/
+Dev: https://magichub.com/datasets/dev-set-of-chinese-english-code-mixing-conversational-speech-corDev
 
-Test: https://magichub.com/datasets/dev-set-of-chinese-english-code-mixing-conversational-speech-corpus/
+Test: https://magichub.com/datasets/chinese-english-code-mixing-conversational-speech-corpus/
 
 ## Dev Set Data Pre-processing
 Please refer to "dev_data_preprocess.sh" for details.
